@@ -248,7 +248,7 @@ export default function Introduction() {
                 </div>
                 <div>
                   <p className="text-sm text-blue-200">GitHub</p>
-                  <p className="font-medium">@khanh-dev</p>
+                  <p className="font-medium">@khanh2k7</p>
                 </div>
               </div>
             </div>
@@ -280,7 +280,7 @@ export default function Introduction() {
                   />
                 </a>
                 <a
-                  href="https://github.com/khanh-dev"
+                  href="https://github.com/khanh2k7"
                   target="_blank"
                   className="w-10 h-10 bg-white bg-opacity-20 rounded-full flex items-center justify-center hover:bg-opacity-30 transition-all duration-300"
                 >
@@ -289,7 +289,7 @@ export default function Introduction() {
               </div>
               <div className="mt-6">
                 <a
-                  href="https://github.com/khanh-dev"
+                  href="https://github.com/khanh2k7"
                   target="_blank"
                   className="w-full py-3 bg-gradient-to-r from-blue-400 to-purple-500 rounded-xl text-center font-medium flex items-center justify-center gap-2 hover:from-blue-500 hover:to-purple-600 transition-all duration-300"
                 >
